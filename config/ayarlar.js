@@ -1,11 +1,11 @@
 module.exports = {
-     prefix: "PREFİX",
-     botdurumyazı: "DURUM YAZI",
-     sahip: "BOT SAHİP ID",
-     sunucuid: "SUNUCU ID",
+     prefix: ".",
+     botdurumyazı: "flashpm oynuyor",
+     sahip: "787058708211302450",
+     sunucuid: "980473934619246652",
      token: "TOKEN",
      SERVİCES_FİLES: "./keys.json",
-     SAMPLE_ID: "SAMPLE ID",
+     SAMPLE_ID: "1421776565871706215",
      GEMINI_API_KEY: "GEMINI_API_KEY",
      SCOP: [
           "https://www.googleapis.com/auth/spreadsheets",
